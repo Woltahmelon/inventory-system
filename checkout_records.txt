@@ -1,0 +1,20 @@
+Product: nescafe stick, Amount: 2, Total: ₱5, Time: 2024-11-26 17:44:54
+Product: apple, Amount: 4, Total: ₱264, Time: 2024-11-27 08:57:47
+Product: apple, Amount: 3, Total: ₱198, Time: 2024-11-27 08:58:17
+Product: nescafe stick, Amount: 2, Total: ₱5, Time: 2024-11-27 08:58:17
+Product: nescafe 3in1, Amount: 2, Total: ₱30, Time: 2024-11-27 08:58:17
+Product: apple, Amount: 2, Total: ₱132, Time: 2024-11-27 09:06:19
+Product: product1, Amount: 4, Total: ₱444, Time: 2024-11-27 09:06:19
+Product: nescafe stick, Amount: 2, Total: ₱5, Time: 2024-11-27 09:06:19
+Product: sevenup, Amount: 1, Total: ₱2123, Time: 2024-11-27 09:06:19
+Product: nescafe stick, Amount: 50, Total: ₱125, Time: 2024-11-27 09:08:49
+Product: sevenup, Amount: 50, Total: ₱106150, Time: 2024-11-27 09:09:55
+Product: sevenup, Amount: 1, Total: ₱2123, Time: 2024-11-27 09:10:55
+Product: apple, Amount: 59701, Total: ₱3940266, Time: 2024-11-27 09:19:43
+Product: nescafe stick, Amount: 1, Total: ₱2.5, Time: 2024-11-27 09:20:57
+Product: 10, Amount: 4, Total: ₱6, Time: 2024-11-27 09:22:20
+Product: apple, Amount: 2, Total: ₱132, Time: 2024-11-27 09:30:28
+Product: apple, Amount: 21, Total: ₱210, Time: 2024-11-27 09:57:28
+Product: nescafe, Amount: 5, Total: ₱174.95, Time: 2024-11-27 09:57:28
+Product: nescafe stick, Amount: 8, Total: ₱32, Time: 2024-11-27 09:57:28
+Product: nescafe 3in1, Amount: 3, Total: ₱15, Time: 2024-11-28 03:08:53
